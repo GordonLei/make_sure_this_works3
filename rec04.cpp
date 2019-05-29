@@ -15,6 +15,8 @@
 #include <string>
 using namespace std;
 
+//ouchie owie
+
 //task 16
 struct Complex {
     double real;
